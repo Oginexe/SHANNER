@@ -1,4 +1,4 @@
-# SHANNER - a portable malware scanner
+# SHANNER - a command-line malware scanner
 
 ## What's the purpose
 SHANNER is a project built in Python for educational purposes to practice what I learned in CS50P. I just wanted to develop a personal project that wasn't just homework, but something I'll use multiple times in everyday life: just a personal tool I needed.
